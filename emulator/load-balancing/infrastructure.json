@@ -1,0 +1,48 @@
+{
+  "areas": [
+    {
+      "areaName": "Central-USA",
+      "endpoint": "<endpoint-1>",
+      "geoCoordinates": {
+        "latitude": 36.066862,
+        "longitude": -101.081697
+      },
+      "tags": {
+        "type": "cloud"
+      },
+      "resources": {
+        "resource": 4
+      },
+      "areas": [
+        {
+          "areaName": "Minnesota-Edge",
+          "endpoint": "<endpoint-1.1>",
+          "geoCoordinates": {
+            "latitude": 45.920587,
+            "longitude": -93.679196
+          },
+          "tags": {
+            "type": "edge"
+          },
+          "resources": {
+            "resource": 1
+          }
+        },
+        {
+          "areaName": "Idaho-Edge",
+          "endpoint": "<endpoint-1.2>",
+          "geoCoordinates": {
+            "latitude": 43.612217,
+            "longitude": -113.727721
+          },
+          "tags": {
+            "type": "edge"
+          },
+          "resources": {
+            "resource": 1
+          }
+        }
+      ]
+    }
+  ]
+}
