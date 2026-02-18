@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/ermes-labs/api-go/api"
-	"github.com/ermes-labs/api-go/infrastructure"
+	"github.com/my-ermes-labs/api-go/api"
+	"github.com/my-ermes-labs/api-go/infrastructure"
 )
 
 var nodes map[string]api.Node = map[string]api.Node{}

@@ -4,8 +4,8 @@ import (
 	"context"
 	"io"
 
-	"github.com/ermes-labs/api-go/api"
-	"github.com/ermes-labs/api-go/infrastructure"
+	"github.com/my-ermes-labs/api-go/api"
+	"github.com/my-ermes-labs/api-go/infrastructure"
 )
 
 //lint:ignore U1000 Ignore unused function temporarily for debugging

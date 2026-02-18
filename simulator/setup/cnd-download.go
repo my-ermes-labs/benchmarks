@@ -3,8 +3,8 @@ package functions
 import (
 	"net/http"
 
-	"github.com/ermes-labs/api-go/api"
-	rc "github.com/ermes-labs/storage-redis/packages/go"
+	"github.com/my-ermes-labs/api-go/api"
+	rc "github.com/my-ermes-labs/storage-redis/packages/go"
 )
 
 func cnd_download(

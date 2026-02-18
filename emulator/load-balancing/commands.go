@@ -1,7 +1,7 @@
 package load_balancing
 
 import (
-	rc "github.com/ermes-labs/storage-redis/packages/go"
+	rc "github.com/my-ermes-labs/storage-redis/packages/go"
 	"github.com/redis/go-redis/v9"
 )
 

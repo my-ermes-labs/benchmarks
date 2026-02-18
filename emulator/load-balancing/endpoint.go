@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/ermes-labs/api-go/api"
+	"github.com/my-ermes-labs/api-go/api"
 )
 
 //lint:ignore U1000 Ignore unused function temporarily for debugging

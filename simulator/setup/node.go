@@ -3,9 +3,9 @@ package functions
 import (
 	"os"
 
-	"github.com/ermes-labs/api-go/api"
-	"github.com/ermes-labs/api-go/infrastructure"
-	rc "github.com/ermes-labs/storage-redis/packages/go"
+	"github.com/my-ermes-labs/api-go/api"
+	"github.com/my-ermes-labs/api-go/infrastructure"
+	rc "github.com/my-ermes-labs/storage-redis/packages/go"
 	"github.com/redis/go-redis/v9"
 )
 
